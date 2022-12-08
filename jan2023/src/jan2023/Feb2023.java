@@ -6,6 +6,7 @@ public class Feb2023 {
 		// TODO Auto-generated method stub
 		System.out.println("a");
 		System.out.println("b");
+		System.out.println("c");
 
 	}
 
